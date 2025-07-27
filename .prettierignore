@@ -1,0 +1,6 @@
+node_modules
+dist
+generated
+backend/abi-op-service/**/*.json
+backend/abi-backend-service/financial-plans/*.json
+**/templates/**/*.yaml
